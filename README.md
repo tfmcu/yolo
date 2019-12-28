@@ -1,5 +1,7 @@
 ﻿# [YOLO](https://github.com/tfzoo/YOLO) 
 
+[![sites](tfzoo/tfzoo.png)](http://www.tfzoo.com)
+
 ### [YOLO简介](https://github.com/tfzoo/YOLO/wiki) 
 
 继RCNN，fast-RCNN 和 faster-RCNN之后对DL目标检测速度问题提出的另外一种框架。YOLO V1其增强版本在GPU上能跑45fps，简化版本155fps。YOLO 使用的是 GoogLeNet 架构，比 VGG-16 快，YOLO 完成一次前向过程只用 85.2 亿次运算，而 VGG-16 要 306.9 亿次，但是 YOLO 精度稍低于 VGG-16。
@@ -36,6 +38,4 @@ YOLOv3 的先验检测（Prior detection）系统将分类器或定位器重新�
 * 基础网络计算量较大，yolov2使用darknet-19进行加速。
 
 
-###  [天府动物园 tfzoo：tensorflow models zoo](http://www.tfzoo.com)
-####   qitas@qitas.cn
-[![sites](tfzoo/tfzoo.png)](http://www.tfzoo.com)
+###  [tfzoo天府动物园：tensorflow models zoo](http://www.tfzoo.com)
